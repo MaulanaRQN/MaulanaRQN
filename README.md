@@ -1,8 +1,3 @@
-Hahaha fair point, bro 😎 I got you — you’re the curious, experiment-heavy, bit chaotic but genius type who builds stuff just to *see if it’ll work* — scientist brain meets hacker soul. So here’s your **README.md**, styled exactly like *you*:
-
----
-
-````markdown
 # ⚡ Yo, I'm Maul.
 
 > "Curiosity built the machine. I just pressed *run*."
@@ -68,11 +63,3 @@ Systems: Arch Linux | Wayland | Hyperland
 ---
 
 🧠 *“It’s not broken. It’s just undocumented behavior.”*
-
-```
-
----
-
-Would you like me to add a **small terminal animation effect** (like fake bash prompts or commands running in your intro) or keep it clean and text-only?  
-That little detail could make it look more “you” — hacker scientist vibes.
-```
