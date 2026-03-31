@@ -1,9 +1,20 @@
-10 X Engginering
+## 10X Engineering
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulanaRQN&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaulanaRQN&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MaulanaRQN)
+![GitHub Streak](https://streak-stats.demolab.com?user=MaulanaRQN&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaulanaRQN)
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MaulanaRQN&show_icons=true&theme=tokyonight)
+## Tech Stack
+- Linux / Debian
+- C++ / Python
+- Qt (QtVCP, UI dev, Low level)
+- LinuxCNC
+
+---
+
+## Current Focus
+- Building CNC UI (QtVCP)
+- Debugging low-level Linux + hardware issues
+- Improving UI/UX for industrial apps
